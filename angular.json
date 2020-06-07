@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tvs"
+    }
+  },
+  "defaultProject": "tvs",
+  "cli": {
+    "analytics": "8ef1a868-45e0-4b38-9182-604766269a64"
+  }
 }
